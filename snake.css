@@ -1,0 +1,49 @@
+body
+{
+	background-color: #123752;
+	color: white;
+	font-family: 'Coming Soon', cursive;
+}
+
+#container
+{
+	width: 1000px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#welcome
+{
+	color: #fff;
+	font-size: 60px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+}
+
+img
+{
+	width: 50px;
+}
+
+#board
+{
+	background-color:#000;
+	width: 880px;
+	height: 480px;
+	margin-top: 5px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#canvas
+{
+	background-color: #b5cce5;
+	margin: 20px;
+}
+
+#direction
+{
+	font-size: 20px;
+}
